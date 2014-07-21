@@ -1,4 +1,4 @@
 X5Panel
 =======
 
-Painel adminsitrativo
+Painel adminsitrativo desenvolvido em AngularJS
